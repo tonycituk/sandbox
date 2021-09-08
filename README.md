@@ -1,4 +1,4 @@
 # Sandbox repo
-I use this repo for testing!
+I use this repo for testing (my knowledge)!
 
 Have a 🍔 for your interest.
